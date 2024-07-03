@@ -1,0 +1,23 @@
+{
+  "name": "fs_todo_list",
+  "version": "1.0.1",
+  "description": "This is todo list",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "fs_todo_list": "index.js"
+  },
+  "access": "public",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
